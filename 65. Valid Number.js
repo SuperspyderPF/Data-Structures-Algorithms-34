@@ -1,0 +1,1 @@
+var isNumber = s => !s.includes("Infinity") && !isNaN(s)
